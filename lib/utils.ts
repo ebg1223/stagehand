@@ -76,11 +76,12 @@ export async function clearOverlays(page: Page) {
  * @returns {boolean} True if running in Bun, false otherwise.
  */
 export function isRunningInBun(): boolean {
-  return (
+  return false;
+  /*return (
     typeof process !== "undefined" &&
     typeof process.versions !== "undefined" &&
     "bun" in process.versions
-  );
+  );*/
 }
 
 /*
