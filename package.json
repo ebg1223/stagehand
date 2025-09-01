@@ -1,5 +1,5 @@
 {
-  "name": "@browserbasehq/stagehand",
+  "name": "@ebg1223/stagehand",
   "version": "2.4.4",
   "description": "An AI web browsing framework focused on simplicity and extensibility.",
   "main": "./dist/index.js",
@@ -105,10 +105,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/browserbase/stagehand.git"
+    "url": "git+https://github.com/ebg1223/stagehand.git"
   },
   "bugs": {
-    "url": "https://github.com/browserbase/stagehand/issues"
+    "url": "https://github.com/ebg1223/stagehand/issues"
   },
   "homepage": "https://stagehand.dev",
   "overrides": {
